@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br> Enhancing problem-solving skills and logical thinking for building dynamic web applications.<br><br>👯 I’m looking to collaborate on:<br> Fullstack projects<br><br>🌱 I’m currently learning:<br> JavaScript, React and Redux<br><br>⚡Fun fact:<br> I love creating dynamic web app.<br>
+🔭 I’m currently working on:<br> Enhancing problem-solving skills and logical thinking for building dynamic web applications.<br><br>👯 I’m looking to collaborate on:<br> Fullstack projects<br><br>🌱 I’m currently learning:<br> JavaScript, React and Redux<br><br>⚡Fun fact:<br> I love creating dynamic web apps.<br><br>
 
 
 ## 🌐 Socials:
